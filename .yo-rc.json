@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "bg.aspar.test",
+      "nativeLanguage": "bg"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "monolith",
+    "baseName": "hipsterTest01",
+    "packageName": "bg.aspar.test",
+    "packageFolder": "bg/aspar/test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YWFlMzA1MTA0YzMxNmUxNjA0Y2YzODNmYjEzNWI2MWZmMjFkZWJiMjkwOWIyMTExMDFjMzMyYjgyZGJlYWQyOGI4MWEyOTlkYjhiYmMxY2JmYjBlNmE1YzMxYmMyYjAzMmIyZTMwMGU3MTQ2ZDQwYjFjZTQ0YWRkMzUyY2Q2Yzc=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "spacelab",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1611603049414,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "bg",
+    "languages": ["bg", "en"],
+    "blueprints": []
+  }
+}
